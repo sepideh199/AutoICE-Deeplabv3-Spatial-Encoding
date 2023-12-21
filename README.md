@@ -1,10 +1,3 @@
-# Sea ice segmentaion using convolutional neural networks
-
-This repository contains scripts that can be used to train convolutional neural network models to segment sea ice using Synthetic Aperture Radar (SAR) images like the following example. 
-
-![Results example](./resources/figure-5-binary-jul-pred.png)
-
-The models are trained with  three-band rasters as input (a), and labels (rasters) with the same projection and dimensions than the input (b). After training, the model generates outputs (c) using full SAR scenes (a) that can be evaluated agains the original labels (d)
 
 # Getting started
 ## Using a terminal
